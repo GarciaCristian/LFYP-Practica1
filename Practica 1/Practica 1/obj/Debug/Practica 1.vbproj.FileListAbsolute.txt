@@ -1,0 +1,10 @@
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\bin\Debug\Practica 1.xml
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\obj\Debug\Practica_1.Form1.resources
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\obj\Debug\Practica_1.Resources.resources
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\obj\Debug\Practica 1.vbproj.GenerateResource.Cache
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\obj\Debug\Practica 1.xml
+c:\users\cristiian\documents\visual studio 2013\Projects\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
